@@ -1,5 +1,5 @@
 function ComponenteNuevo() {
-    return ( <h2>.. Desde el Componente Nuevo ..</h2> );
+    return ( <h2>.. Desde el componente nuevo </h2> );
 }
 
 export default ComponenteNuevo;
